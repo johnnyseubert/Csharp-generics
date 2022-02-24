@@ -1,0 +1,7 @@
+C:\Users\Data53454\Desktop\C#\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Data53454\Desktop\C#\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Data53454\Desktop\C#\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Data53454\Desktop\C#\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Data53454\Desktop\C#\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Data53454\Desktop\C#\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Data53454\Desktop\C#\Generics\Generics\obj\Debug\Generics.pdb
